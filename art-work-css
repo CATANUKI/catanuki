@@ -1,0 +1,54 @@
+
+
+
+body{
+  font-family: serif;
+}
+
+.header{
+  height: 90px
+  background-color: #46eeff;
+  font-family: serif;
+  float: left;
+}
+
+
+.main{
+  height: 600px
+  background-color: #a7a1ff;
+  padding: 100px 80px;
+}
+
+.copy-container h1{
+  font-size: 140px
+}
+
+.copy-container h3{
+  font-size: 30px
+}
+
+.copy-container span{
+  color: #ff4a4a;
+}
+
+.contents-item{
+  float: left;
+}
+
+.footer{
+  height: 270px
+  background-color: #000066
+}
+
+.footer-logo {
+  float: left;
+  font-size: 32px;
+}
+
+.footer-list {
+  float: right;
+}
+
+.footer-list li {
+  padding-bottom: 20px;
+}
